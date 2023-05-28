@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which LASPG & LASPM collects, uses, maintains, and discloses information collected from users (each, a "User") of the LASPG & LASPM mobile application ("App").
+This Privacy Policy governs the manner in which LASPGA & LASPGM collects, uses, maintains, and discloses information collected from users (each, a "User") of the LASPG & LASPM mobile application ("App").
 
 **1. Personal Identification Information**
 We may collect personal identification information from Users in various ways, including when Users register or log in to the App. The types of personal information we may collect include, but are not limited to:
